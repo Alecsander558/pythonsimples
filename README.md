@@ -1,0 +1,1 @@
+Este repositório reúne os projetos e estudos desenvolvidos durante a minha jornada de aprendizado em Python. O objetivo deste espaço é documentar minha evolução técnica, compartilhando a aplicação prática de conceitos e a resolução de problemas reais através da programação.
